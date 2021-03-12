@@ -1,4 +1,4 @@
-# Studying-API
+Estudando API, REST e RESTful
 
 ## O que é uma API?
 
