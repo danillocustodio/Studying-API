@@ -97,7 +97,7 @@ RESTful, é a aplicação dos padrões REST.
 
     - 500: Internal Server Error
 
-## Passo a passo (Code)
+## Iniciar código
 
 yarn init -y
 
