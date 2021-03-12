@@ -2,7 +2,7 @@
 
 ## O que é uma API?
 
-"É um conjunto de rotinas e padrões de programação para acesso a um aplicativo de software ou plataforma baseado na Web. Acrônimo para Application Programming Interface. (Interface de Programação de Aplicativos)"
+É um conjunto de rotinas e padrões de programação para acesso a um aplicativo de software ou plataforma baseado na Web. Acrônimo para Application Programming Interface. (Interface de Programação de Aplicativos)
 
 Exemplo do restaurante:
 
@@ -19,7 +19,7 @@ Intermediador para troca de informações.
 
 ## REST
 
-"Acrônimo para REpresentation State Transfer. (Transferência de Estado Representativo)" 
+Acrônimo para REpresentation State Transfer. (Transferência de Estado Representativo) 
 
 Representativo = transferência de dados de uma maneira simbólica, didática, figurativa.
 
