@@ -79,11 +79,11 @@ RESTful, é a aplicação dos padrões REST.
 
 - 2xx: Sucesso
 
-    - 200: OK
+    - 200: Ok
 
-    - 201: CREATED
+    - 201: Created
 
-    - 204: Não tem conteúdo PUT POST DELETE
+    - 204: No content (PUT, POST, DELETE)
 
 - 3xx: Redirection
 
@@ -91,7 +91,7 @@ RESTful, é a aplicação dos padrões REST.
 
     - 400: Bad Request
 
-    - 404: Not Found!
+    - 404: Not Found
 
 - 5xx: Server Error 
 
