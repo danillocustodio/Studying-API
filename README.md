@@ -9,7 +9,7 @@
 Um restaurante é formado por:
 
 - Cliente (Client) 
-- Garçom (API): transporta os pedidos da cliente para a cozinha, e, retorna os pratos da cozinha para o cliente.
+- Garçom (API) -> Transporta os pedidos da cliente para a cozinha e retorna os pratos da cozinha para o cliente.
 - Cozinha (Server)
 
 A API busca informações ou funções no Server para retornar ao Client.
