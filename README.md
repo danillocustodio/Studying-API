@@ -4,7 +4,7 @@
 
 É um conjunto de rotinas e padrões de programação para acesso a um aplicativo de software ou plataforma baseado na Web. Acrônimo para Application Programming Interface. (Interface de Programação de Aplicativos)
 
-Exemplo do restaurante:
+### Exemplo do restaurante
 
 Um restaurante é formado por:
 
